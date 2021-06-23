@@ -9,8 +9,6 @@ The best way to learn the game is to play it. First, download these files:
 
 Then read through the _On Base Advanced Guide_ to learn how each roll works and what values you should be using to compare against dice rolls. You'll need 2 D10 dice of different colors to play the game. You can use traditional dice or an online roller. Either work fine. [This is a good online dice roller.](https://rolladie.net/)
 
-[Here is a video that walks you through the cards and a sample half inning.](https://youtu.be/4ZN7wGQs164)
-
 If you have any questions or feeback here are a couple of ways to reach out:\
 [On Base Baseball on Delphi Forums >](http://forums.delphiforums.com/onbasebaseball)\
 [Email >](mailto:onbasebaseball@gmail.com)
