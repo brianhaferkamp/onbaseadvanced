@@ -6,6 +6,8 @@ The best way to learn the game is to play it. First, download these files:
 - [2019 Atlanta Braves](https://github.com/brianhaferkamp/onbaseadvanced/raw/main/OBA_2019_Braves.pdf)
 - [2019 New York Mets](https://github.com/brianhaferkamp/onbaseadvanced/raw/main/OBA_2019_Mets.pdf)
 - [On Base Advanced Guide](https://github.com/brianhaferkamp/onbaseadvanced/raw/main/On%20Base%20Advanced%20Guide.pdf)
+- Fielding Matrix (Bifold)
+- Fielding Matrix (Trifold)
 
 Then read through the _On Base Advanced Guide_ to learn how each roll works and what values you should be using to compare against dice rolls. You'll need 2 D10 dice of different colors to play the game. You can use traditional dice or an online roller. Either work fine. [This is a good online dice roller.](https://rolladie.net/)
 
