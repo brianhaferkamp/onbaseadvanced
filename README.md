@@ -9,7 +9,7 @@ The best way to learn the game is to play it. First, download these files:
 - [Fielding Matrix (Bifold)](https://github.com/brianhaferkamp/onbaseadvanced/raw/main/OBA_Fielding_Matrices_Bifold.pdf)
 - [Fielding Matrix (Trifold)](https://github.com/brianhaferkamp/onbaseadvanced/raw/main/OBA_Fielding_Matrices_Trifold.pdf)
 
-Then read through the _On Base Advanced Guide_ to learn how each roll works and what values you should be using to compare against dice rolls. You'll need 2 D10 dice of different colors to play the game. You can use traditional dice or an online roller. Either work fine. [This is a good online dice roller.](https://rolladie.net/)
+Then read through the _On Base Advanced Guide_ to learn how each roll works and what values you should be using to compare against dice rolls. You'll need 2 D10 dice of different colors to play the game. You can use traditional dice or an online roller. Either work fine. Here is an [online dice roller that I made for this game](https://brianhaferkamp.github.io/onbaseadvanced/dice/) that you can use for free.
 
 If you have any questions or feeback here are a couple of ways to reach out:\
 [On Base Baseball on Delphi Forums >](http://forums.delphiforums.com/onbasebaseball)\
