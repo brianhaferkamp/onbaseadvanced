@@ -1,0 +1,60 @@
+.app {
+  max-width: 900px;
+  margin: auto;
+}
+
+header {
+  padding: 1rem 1.5rem;
+  text-align: center;
+}
+
+.dice {
+  display: flex;
+  justify-content: center;
+  margin: 2rem 0 3rem;
+}
+@media (min-width: 600px) {
+  .dice {
+    gap: 1rem;
+  }
+}
+
+.die {
+  width: 40px;
+  height: 40px;
+  border: 1px solid black;
+  border-radius: 5px;
+  padding: 1rem;
+  margin: 0 0.5rem;
+  display: grid;
+  place-items: center;
+}
+@media (min-width: 600px) {
+  .die {
+    width: 70px;
+    height: 70px;
+  }
+}
+.die span {
+  font-size: 2rem;
+  display: none;
+}
+.die.die1 {
+  background: blue;
+  color: white;
+}
+
+.roll {
+  text-align: center;
+}
+.roll button {
+  display: inline-block;
+  padding: 1rem 3rem;
+  background: black;
+  color: white;
+  border: 0;
+  border-radius: 5px;
+  font-size: 1.5rem;
+  font-weight: 700;
+  text-transform: uppercase;
+}
