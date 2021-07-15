@@ -14,7 +14,7 @@ Then read through the _On Base Advanced Guide_ to learn how each roll works and 
 ## OBA with Pitch Selection
 A modified version of OBA is available that allows you to select each pitch thrown to the batter(s). The cards and gameplay are similar to the ones above but are different in many important ways. You can download a demo of this game and a guide that specifically explains how to play with this revolutionary game engine. Download the pieces and guide here:
 
--[2019 AL All-Star Batters]()
+-[2019 AL All-Star Batters](https://github.com/brianhaferkamp/onbaseadvanced/raw/main/OBA_Experimental_AL_Batters.pdf)
 -[2019 AL All-Star Pitchers]()
 -[On Base Advanced with Pitch Selection Guide]()
 -[Fielding Matrix with Pop Ups]()
