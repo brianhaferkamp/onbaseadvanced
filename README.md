@@ -11,6 +11,14 @@ The best way to learn the game is to play it. First, download these files:
 
 Then read through the _On Base Advanced Guide_ to learn how each roll works and what values you should be using to compare against dice rolls. You'll need 2 D10 dice of different colors to play the game. You can use traditional dice or an online roller. Either work fine. Here is an [online dice roller that I made for this game](https://brianhaferkamp.github.io/onbaseadvanced/dice/) that you can use for free.
 
+## OBA with Pitch Selection
+A modified version of OBA is available that allows you to select each pitch thrown to the batter(s). The cards and gameplay are similar to the ones above but are different in many important ways. You can download a demo of this game and a guide that specifically explains how to play with this revolutionary game engine. Download the pieces and guide here:
+
+[2019 AL All-Star Batters]()
+[2019 AL All-Star Pitchers]()
+[On Base Advanced with Pitch Selection Guide]()
+[Fielding Matrix with Pop Ups]()
+
 If you have any questions or feeback here are a couple of ways to reach out:\
 [On Base Baseball on Delphi Forums >](http://forums.delphiforums.com/onbasebaseball)\
 [Email >](mailto:onbasebaseball@gmail.com)
