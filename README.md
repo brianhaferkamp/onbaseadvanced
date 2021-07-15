@@ -14,10 +14,10 @@ Then read through the _On Base Advanced Guide_ to learn how each roll works and 
 ## OBA with Pitch Selection
 A modified version of OBA is available that allows you to select each pitch thrown to the batter(s). The cards and gameplay are similar to the ones above but are different in many important ways. You can download a demo of this game and a guide that specifically explains how to play with this revolutionary game engine. Download the pieces and guide here:
 
--[2019 AL All-Star Batters](https://github.com/brianhaferkamp/onbaseadvanced/raw/main/OBA_Experimental_AL_Batters.pdf)
--[2019 AL All-Star Pitchers](https://github.com/brianhaferkamp/onbaseadvanced/raw/main/OBA_Experimental_AL_Pitchers.pdf)
--[On Base Advanced with Pitch Selection Guide](https://github.com/brianhaferkamp/onbaseadvanced/raw/main/On%20Base%20Advanced%20with%20Pitch%20Selection.pdf)
--[Fielding Matrix with Pop Ups](https://github.com/brianhaferkamp/onbaseadvanced/raw/main/OBA_Experimental_Fielding_Matrices_Popups.pdf)
+- [2019 AL All-Star Batters](https://github.com/brianhaferkamp/onbaseadvanced/raw/main/OBA_Experimental_AL_Batters.pdf)
+- [2019 AL All-Star Pitchers](https://github.com/brianhaferkamp/onbaseadvanced/raw/main/OBA_Experimental_AL_Pitchers.pdf)
+- [On Base Advanced with Pitch Selection Guide](https://github.com/brianhaferkamp/onbaseadvanced/raw/main/On%20Base%20Advanced%20with%20Pitch%20Selection.pdf)
+- [Fielding Matrix with Pop Ups](https://github.com/brianhaferkamp/onbaseadvanced/raw/main/OBA_Experimental_Fielding_Matrices_Popups.pdf)
 
 If you have any questions or feeback here are a couple of ways to reach out:\
 [On Base Baseball on Delphi Forums >](http://forums.delphiforums.com/onbasebaseball)\
